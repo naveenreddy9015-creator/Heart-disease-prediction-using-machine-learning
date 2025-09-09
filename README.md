@@ -1,6 +1,6 @@
 ❤️ Heart Disease Prediction Using Machine Learning
 
-❤️ Heart Disease Prediction using Machine Learning
+
 📌 Project Overview
 
 This is a machine learning project where I worked on predicting heart disease using patient health data. The dataset (from Kaggle) has a little over 1,000 records with details like age, cholesterol, blood pressure, chest pain type, and maximum heart rate.
