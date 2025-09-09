@@ -75,4 +75,4 @@ Test on larger, real-world datasets
 
 📌 Dataset
 
-Kaggle Heart Disease Dataset → link
+Kaggle Heart Disease Dataset → [link](https://www.kaggle.com/code/chayandatta/heart-disease-prediction-using-machine-learning)
