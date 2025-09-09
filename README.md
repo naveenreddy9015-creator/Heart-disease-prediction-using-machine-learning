@@ -1,60 +1,6 @@
-# Heart disease prediction using machine learning
- 
 ❤️ Heart Disease Prediction Using Machine Learning
-📑 Table of Contents
 
-📌 Executive Summary
-
-🩺 Introduction
-
-📊 Data Description
-
-Dataset Overview
-
-Data Preprocessing
-
-🔎 Exploratory Data Analysis (EDA)
-
-📉 Univariate Analysis
-
-🔗 Bivariate Analysis
-
-⚠️ Outlier Detection
-
-🤖 Modeling
-
-📈 Logistic Regression
-
-🌳 Decision Tree
-
-🌲 Random Forest
-
-📏 Performance Evaluation
-
-🎯 Accuracy Metrics
-
-🧮 Confusion Matrices
-
-📊 ROC & AUC Analysis
-
-✅ Conclusion
-
-📚 References
-
-✨ Executive Summary
-
-This research explores machine learning for early heart disease prediction using patient clinical data. Three models were implemented:
-
-📈 Logistic Regression – Baseline model, interpretable, good insights.
-
-🌳 Decision Tree – Rule-based, moderate accuracy.
-
-🌲 Random Forest – Ensemble method, best accuracy at 94.53%.
-
-🔑 Key Takeaway: The Random Forest model outperforms others, showing strong potential for ML-driven diagnostics in healthcare.
-
-🩺 Introduction
-
+SUMMARY:
 💔 Heart disease is a leading cause of death worldwide, often diagnosed too late.
 👩‍⚕️ Traditional methods (imaging, clinical evaluation) are costly & time-consuming.
 🤖 Machine Learning (ML) can identify hidden patterns in patient data, enabling early detection & risk assessment.
