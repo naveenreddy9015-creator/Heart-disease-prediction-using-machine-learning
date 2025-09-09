@@ -75,7 +75,8 @@ Test on larger, real-world datasets
 
 📌 Dataset
 
-Kaggle Heart Disease Dataset → Click Here
+Kaggle Heart Disease Dataset → link<img width="468" height="58" alt="image" src="https://github.com/user-attachments/assets/3e5c6ab4-96c9-4648-8860-9edd21a004d1" />
+
 
 
 
