@@ -1,4 +1,4 @@
-# Heart-disease-prediction-using-machine-learning
+# Heart disease prediction using machine learning
  
 ❤️ Heart Disease Prediction Using Machine Learning
 📑 Table of Contents
